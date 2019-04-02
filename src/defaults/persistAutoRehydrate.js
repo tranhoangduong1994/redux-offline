@@ -1,4 +1,4 @@
 // @flow
-import { autoRehydrate } from 'redux-persist';
+import { autoRehydrate } from 'red-per';
 
 export default autoRehydrate;

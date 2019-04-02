@@ -1,4 +1,4 @@
 // flow
-import { persistStore } from 'redux-persist';
+import { persistStore } from 'red-per';
 
 export default persistStore;
