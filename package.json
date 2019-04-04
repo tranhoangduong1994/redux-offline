@@ -1,5 +1,5 @@
 {
-  "name": "@redux-offline/redux-offline",
+  "name": "red-off",
   "version": "2.5.1",
   "description": "Redux Offline-First Architecture",
   "main": "lib/index.js",
@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redux-offline/redux-offline"
+    "url": "git+https://github.com/tranhoangduong1994/redux-offline"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redux-offline/redux-offline/issues"
+    "url": "https://github.com/tranhoangduong1994/redux-offline/issues"
   },
-  "homepage": "https://github.com/redux-offline/redux-offline#readme",
+  "homepage": "https://github.com/tranhoangduong1994/redux-offline#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",

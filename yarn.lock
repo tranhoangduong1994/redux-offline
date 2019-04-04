@@ -4134,10 +4134,10 @@ realpath-native@^1.0.0:
   dependencies:
     util.promisify "^1.0.0"
 
-red-per@^4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/red-per/-/red-per-4.5.0.tgz#dcec6e95c2952d9f4efef5b20dfaa9270e35dfd5"
-  integrity sha512-+4PuIuyZ6yTP9moZ0B4ZqeoaelquruO/0jFjyC5trlq6n8HYgIRcBJqvP0d/B+4JP/Yp6AzQjAYR17ojMGPZBQ==
+red-per@4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/red-per/-/red-per-4.5.1.tgz#f2b74ce0c75ebfa99e26329bea89468694844875"
+  integrity sha512-rA5ThYkyPxoah4grbGnno1vACdqUieUa0ttFNmR5RsyFb+IriFDZryfKIABRDkq85CXWjxO1z7pf3VvxKE2Q8w==
   dependencies:
     json-stringify-safe "^5.0.1"
     lodash "^4.17.4"
